@@ -1,0 +1,13 @@
+ArduHMI - Graphic HMI for Arduino
+HMIFeatherWing - Adafruit Feather Version
+see full project documentation at http://arduhmi.generationmake.de or https://github.com/generationmake/HMIFeatherWing
+
+changes
+
+version 1.0 - 2019-12-27
+* initial release
+
+
+
+
+
