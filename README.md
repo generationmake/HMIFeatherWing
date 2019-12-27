@@ -3,13 +3,13 @@ HMI FeatherWing with EA DOGM132-5 2.1" display and joystick compatible to Adafru
 
 ![HMIFeatherWing rendering](docs/images/HMIFeatherWing_1.0_rendering.png)
 
-##PCB
+## PCB
 
-###Top
+### Top
 
 ![HMIFeatherWing PCB top](docs/images/HMIFeatherWing_1.0_top.png)
 
-###Bottom
+### Bottom
 
 ![HMIFeatherWing PCB bot](docs/images/HMIFeatherWing_1.0_bot.png)
 
