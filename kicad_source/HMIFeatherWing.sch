@@ -3,10 +3,10 @@ EELAYER 30 0
 EELAYER END
 $Descr A4 11693 8268
 encoding utf-8
-Sheet 1 1
+Sheet 1 2
 Title "HMIFeatherWing"
-Date "2019-12-27"
-Rev "1.0"
+Date "2020-01-24"
+Rev "1.1"
 Comp "generationmake"
 Comment1 ""
 Comment2 ""
@@ -14,7 +14,7 @@ Comment3 ""
 Comment4 "This documentation describes Open Hardware and is licensed under the CERN OHL v. 1.2."
 $EndDescr
 Text Notes 500  700  0    47   ~ 0
-Copyright generationmake 2019\nsee full project documentation at http://arduhmi.generationmake.de\nor https://github.com/generationmake/HMIFeatherWing
+Copyright generationmake 2020\nsee full project documentation at http://arduhmi.generationmake.de\nor https://github.com/generationmake/HMIFeatherWing
 $Comp
 L HMIFeatherWing-rescue:C_0603-ArduHMIShield-rescue-ArduHMIShield-rescue-MKRHMIShield-rescue-MKRHMIShield-rescue C7
 U 1 1 5B6395F1
@@ -736,7 +736,7 @@ Wire Wire Line
 Wire Wire Line
 	3100 6800 3100 7150
 Text Notes 1150 7600 0    47   ~ 0
-multicomp MCMT5 should also be OK\nhttps://de.farnell.com/multicomp/mcmt5-f-v/navigationsschalter-5polig-smd/dp/1316987
+multicomp MCMT5 is also OK\nhttps://de.farnell.com/multicomp/mcmt5-f-v/navigationsschalter-5polig-smd/dp/1316987
 $Comp
 L MODULE_compute:ADAFRUIT_FEATHER CN1
 U 1 1 5DD44785
@@ -853,4 +853,10 @@ F 3 "" H 5000 2850 50  0000 C CNN
 	1    5000 2850
 	1    0    0    -1  
 $EndComp
+$Sheet
+S 10000 6000 800  350 
+U 5E2B29FC
+F0 "History" 60
+F1 "history.sch" 60
+$EndSheet
 $EndSCHEMATC

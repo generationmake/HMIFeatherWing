@@ -1,4 +1,4 @@
-3207478659635253
+3212213630937253
 CON_lumberg
 1501_02
 
@@ -778,6 +778,13 @@ WE-LHMI SMD Power Inductor
 2
 L_power
 WE-LHMI70xx
+
+WE-LHMI SMD Power Inductor
+0
+2
+2
+L_power
+WE-LHMI80xx
 
 WE-LHMI SMD Power Inductor
 0
@@ -2625,6 +2632,13 @@ capacitor 2225
 2
 2
 capacitors
+C_elec_THT_16x25_RM7.5
+
+
+0
+2
+2
+capacitors
 TantalC_SizeA_EIA-3216_HandSoldering
 Tantal Cap. , Size A, EIA-3216, Hand Soldering,
 Tantal Cap. , Size A, EIA-3216, Hand Soldering,
@@ -4444,6 +4458,13 @@ ALPS_SKRH
 0
 8
 6
+mechanical-switches
+BOURNS_PEC11S-929K-S0015
+
+
+0
+11
+5
 mechanical-switches
 PCB_PUSH
 PCB pushbutton, Tyco FSM6x6 series
